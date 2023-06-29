@@ -44,21 +44,23 @@ Following is the list of functions that are called for different purpose:
 ![image](https://user-images.githubusercontent.com/120099863/216605029-6b7b618e-d701-4e47-94d2-e541a8a4a944.png)
 
 **Performance Summary:**
- * Total Trainable Parameters: 79,684
- * Best Training Accuracy: 79.16%
- * Best Test Accuracy: 85.00% (Epoch: 192)
+ * Total Trainable Parameters: 182,260
+ * Best Training Accuracy: 82.39%
+ * Best Test Accuracy: 85.01% (Epoch: 34)
 
 **Training Log (last few steps):**
 
-![image](https://user-images.githubusercontent.com/120099863/216589237-7c887547-83e8-4850-b53f-7598ae29f9a1.png)
+![image](https://github.com/MPGarg/ERA1_Session9/assets/120099863/ef5a5df6-ab1f-4ede-917f-edbf37598a1e)
 
 **Accuracy & Loss Graph:**
 
-![image](https://user-images.githubusercontent.com/120099863/216590404-6d296358-992d-459b-a1e3-4c94918f7962.png)
+![image](https://github.com/MPGarg/ERA1_Session9/assets/120099863/4a8d896c-f4bf-47af-ad86-016ab33a0a82)
 
 **Overall Prediction Summary:**
 
-![image](https://user-images.githubusercontent.com/120099863/216590589-4dcf265f-542a-4aab-ad68-6ecdcda78a25.png)
+![image](https://github.com/MPGarg/ERA1_Session9/assets/120099863/ccbaf617-a554-4150-af84-360b02ede672)
 
+**Incorrect Prediction Samples:**
 
+![image](https://github.com/MPGarg/ERA1_Session9/assets/120099863/3ad8dd6c-59d5-4947-b359-b29eae84f179)
 
