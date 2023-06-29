@@ -1,8 +1,8 @@
-# Assignment-6
+# Session-9 Assignment
 
 ## Problem Statement
 
-![image](https://user-images.githubusercontent.com/120099863/216579996-6a432d27-6a8c-4417-9a83-9a331abe4f04.png)
+![image](https://github.com/MPGarg/ERA1_Session9/assets/120099863/ca322350-3ed8-4cc2-a64d-bad84d1dce4e)
 
 ## Code Details
 
@@ -11,9 +11,9 @@ Code is devided into five files. Four of them are py files & one ipynb file. Lin
   * model_transpose.py [link](model_transpose.py)
   * train_test.py [link](train_test.py)
   * utility.py [link](utility.py)
-  * EVA8_Assigment_6.ipynb [link](EVA8_Assigment_6.ipynb)
+  * EVA1_S9.ipynb [link](EVA1_S9.ipynb)
   
-All of these py files are imported into EVA8_Assigment_6.ipynb after uploading in google drive. model_cifar10.py contains a class by name Net that creates nueral network.
+All of these py files are imported into EVA1_S9.ipynb after uploading in google drive. model_cifar10.py contains a class by name Net that creates nueral network.
 
 Following is the list of functions that are called for different purpose:
   * load_data: Load transformations for mean and standard deviation calculation
@@ -36,8 +36,8 @@ Following is the list of functions that are called for different purpose:
 
 **Summary of Model:**
 
-![image](https://user-images.githubusercontent.com/120099863/216589699-753def6b-c3af-4110-a830-049cb3bbbcca.png)
-![image](https://user-images.githubusercontent.com/120099863/216589870-5a636741-da01-40ad-a02f-f67fa832172f.png)
+![image](https://github.com/MPGarg/ERA1_Session9/assets/120099863/81d2434b-7092-4950-af81-846eb1237161)
+![image](https://github.com/MPGarg/ERA1_Session9/assets/120099863/54fc148d-5ccf-45a0-aad4-3e048bf5d514)
 
 **Receptive Field:**
 
